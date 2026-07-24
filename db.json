@@ -1,0 +1,304 @@
+{
+  "mob": [
+    {
+      "id": "1",
+      "name": "samsung",
+      "price": 20000,
+      "color":"black"
+    
+    },
+    {
+      "id": "KKwmUd7wC9I",
+      "name": "oppo",
+      "price": 50000,
+      "color": "black"
+    },
+    {
+      "id": "aIWMtKAck_A",
+      "name": "iphone",
+      "price": 1000000,
+      "color": "orange"
+    },
+    {
+      "id": "IR8KP_smaTM",
+      "name": "1+",
+      "price": 30000,
+      "color": "white"
+    },
+    {
+      "id": "5MTbtvWzwPw",
+      "name": "moto",
+      "price": 20000,
+      "color": "black"
+    },
+    {
+      "id": "DH8UczMPDqA",
+      "name": "poco",
+      "price": 50000,
+      "color": "pink"
+    },
+    {
+      "id": "p6VP8gO_WAw",
+      "name": "vivo",
+      "price": 40000,
+      "color": "black"
+    },
+    {
+      "id": "NP6d68Sqnwc",
+      "name": "redmi",
+      "price": 15000,
+      "color": "blue"
+    },
+    {
+      "id": "bAzw-HywABw",
+      "name": "realme",
+      "price": 18000,
+      "color": "light blue"
+    },
+    {
+      "id": "i_wsaFD_i8I",
+      "name": "nokiya",
+      "price": 8000,
+      "color": "red"
+    }
+  ],
+  "laptop": [
+    {
+      "id": "1",
+      "name": "dell",
+      "price": 75000,
+      "ram": "8gb"
+    },
+    {
+      "id": "gZkkdtU5F7k",
+      "name": "lenovo ideapad slim 3",
+      "price": 48000,
+      "ram": "8GB"
+    },
+    {
+      "id": "2xItKocSzw4",
+      "name": "acer aspire 5",
+      "price": 51000,
+      "ram": "8GB"
+    },
+    {
+      "id": "saAK0q9AI38",
+      "name": "asus vivobook 15",
+      "price": 58000,
+      "ram": "16GB"
+    },
+    {
+      "id": "J1KNteE7YZU",
+      "name": "msi modern 14",
+      "price": 65000,
+      "ram": "16GB"
+    },
+    {
+      "id": "UomtTRh4ZDs",
+      "name": "samsung galaxy book4",
+      "price": 65000,
+      "ram": "16GB"
+    },
+    {
+      "id": "a8SkvD6qz2Q",
+      "name": "dell vostro 15",
+      "price": 53000,
+      "ram": "8GB"
+    },
+    {
+      "id": "Z_DXUOAUk-U",
+      "name": "lenovo",
+      "price": 76000,
+      "ram": "8GB"
+    },
+    {
+      "id": "rve6FoF-trU",
+      "name": "apple macbook air m2",
+      "price": 76000,
+      "ram": "8GB"
+    },
+    {
+      "id": "_yHxmV9Qr6s",
+      "name": "dell inspiration 15",
+      "price": 55000,
+      "ram": "16GB"
+    }
+  ],
+  "tv": [
+    {
+      "id": "1",
+      "name": "samsung crystal UHD",
+      "price": 35000,
+      "size": "43 inch"
+    },
+    {
+      "id": "nVKBw_FFDTA",
+      "name": "LG smart tv",
+      "price": 42000,
+      "size": "50 inches"
+    },
+    {
+      "id": "wHC2LhIMuM0",
+      "name": "sony bravia",
+      "price": 55000,
+      "size": "55 inches"
+    },
+    {
+      "id": "kMftNQp2ID8",
+      "name": "mi smart tv x",
+      "price": 28000,
+      "size": "43 inches"
+    },
+    {
+      "id": "mbk-JxDHP74",
+      "name": "oneplus y series",
+      "price": 26000,
+      "size": "43 inches"
+    },
+    {
+      "id": "pbQs3-NU0mQ",
+      "name": "tcl qled tv",
+      "price": 39000,
+      "size": "55 inches"
+    },
+    {
+      "id": "SE1DSOEUVvQ",
+      "name": "hisense smart tv",
+      "price": 30000,
+      "size": "50 inches"
+    },
+    {
+      "id": "Ww3b5V7dsw8",
+      "name": "panasonic led tv",
+      "price": 34000,
+      "size": "43 inches"
+    },
+    {
+      "id": "3dwcqKDdk5o",
+      "name": "vu premium tv",
+      "price": 31000,
+      "size": "50 inches"
+    },
+    {
+      "id": "IhybxZ3aQpk",
+      "name": "acer advanced i series",
+      "price": 37000,
+      "size": "55 inches"
+    }
+  ],
+  "watch": [
+    {
+      "id": "1",
+      "name": "titan neo",
+      "price": 2500,
+      "type": "analog"
+    },
+    {
+      "id": "_iONd08o7RQ",
+      "name": "fastrack reflex",
+      "price": 3500,
+      "type": "smartwatch"
+    },
+    {
+      "id": "xEPz6Oou_i4",
+      "name": "noise colorfitpro",
+      "price": 3500,
+      "type": "smartwatch"
+    },
+    {
+      "id": "RtDPfcsmh6s",
+      "name": "boat wave call",
+      "price": 2800,
+      "type": "smartwatch"
+    },
+    {
+      "id": "9ws66I6te5U",
+      "name": "fire-boltt ninja",
+      "price": 3200,
+      "type": "smartwatch"
+    },
+    {
+      "id": "U7jgjUPMJ4Y",
+      "name": "apple watch se",
+      "price": 29900,
+      "type": "smartwatch"
+    },
+    {
+      "id": "NRMzxJq-t9o",
+      "name": "casio g-shock",
+      "price": 8500,
+      "type": "digital"
+    },
+    {
+      "id": "Pt6SGIUC6PY",
+      "name": "samsung galaxy watch 6",
+      "price": 24900,
+      "type": "smartwatch"
+    },
+    {
+      "id": "w0909ABp4GE",
+      "name": "timex expedition",
+      "price": 4500,
+      "type": "analog"
+    },
+    {
+      "id": "pLmrMiWM_YY",
+      "name": "fossil gen 6",
+      "price": 18999,
+      "type": "smartwatch"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "name": "python programming",
+      "price": 450
+    },
+    {
+      "id": "tF4_DXhvnAk",
+      "name": "java basics",
+      "price": 400
+    },
+    {
+      "id": "U7AQ2JoFRss",
+      "name": "c programming",
+      "price": 350
+    },
+    {
+      "id": "QGGwr3T2PRc",
+      "name": "data science",
+      "price": 550
+    },
+    {
+      "id": "v7kKK1IoZ0E",
+      "name": "dbms concepts",
+      "price": 500
+    },
+    {
+      "id": "Vf-ugqnNrKY",
+      "name": "os",
+      "price": 600
+    },
+    {
+      "id": "_aqaYe8Bl1w",
+      "name": "computer network",
+      "price": 520
+    },
+    {
+      "id": "9fjLYaV-01A",
+      "name": "machine learning",
+      "price": 750
+    },
+    {
+      "id": "IE4rMBWcWe8",
+      "name": "artifical intelligence",
+      "price": 800
+    },
+    {
+      "id": "Mokg41vKJzg",
+      "name": "clean code",
+      "price": 650
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
